@@ -53,6 +53,7 @@ int main()
 	retObj = returnObject();
 	cout << *retObj.p << "-object from function"<<retObj.p<<endl;
 	cout << "hi,my little programmer";
+	cout<<"how are you";
 	system("pause");
 	
 
