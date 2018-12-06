@@ -54,7 +54,7 @@ int main()
 	cout << "5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
 	SimpleClass obj2 = obj1;  // object initialization at creation
 	cout<<"hi my little programmer";
-	
+	cout<<"how are you";
 	system("pause");
 	return 0;
 	system("pause");
